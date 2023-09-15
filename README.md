@@ -6,8 +6,8 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B73D52&height=150&section=header&text=벼락%20샌드&fontColor=FFD99B&fontSize=70&animation=fadeIn&fontAlignY=55)
-
+[![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B73D52&height=150&section=header&text=벼락%20샌드&fontColor=FFD99B&fontSize=70&animation=fadeIn&fontAlignY=55)
+](https://i.ibb.co/dDtQ9H3/2023-08-14-9-44-30.png)
 </div>
 
 ## 팀원
