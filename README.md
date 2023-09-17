@@ -4,9 +4,6 @@
 
 스파르타코딩클럽 6기_React / 23.08.07 ~ 23.08.14 
 
-TEST ID : test6@naver.com
-PASSWORD : 123412
-
 <div align="center">
 
 [![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B73D52&height=150&section=header&text=벼락%20샌드&fontColor=FFD99B&fontSize=70&animation=fadeIn&fontAlignY=55)
@@ -117,6 +114,9 @@ https://github.com/projectaub/BRsand
    
 ## [유저] 모바일 페이지 
 
+TEST ID : test6@naver.com
+PASSWORD : 123412
+
 ### 1) 메인 페이지
 
 <a href="https://ibb.co/5Lk5DJz"><img width="400" src="https://i.ibb.co/tDzbf1N/2023-08-14-9-44-30.png" alt="2023-08-14-9-44-30" border="0"></a>
@@ -139,7 +139,11 @@ https://github.com/projectaub/BRsand
 <a href="https://ibb.co/7KXSsr7"><img width="400" src="https://i.ibb.co/NKsFcWw/2023-08-14-9-45-59.png" alt="2023-08-14-9-45-59" border="0"></a>
 
 
-## [어드민] 웹 페이지
+## [어드민] 웹 페이지 https://b-rsand-inky.vercel.app/admin
+
+TEST ID : admin@test.com
+PASSWORD : 111111
+
 
 ### 1) 메인 페이지
 
