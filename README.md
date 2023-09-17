@@ -4,6 +4,9 @@
 
 스파르타코딩클럽 6기_React / 23.08.07 ~ 23.08.14 
 
+TEST ID : test6@naver.com
+PASSWORD : 123412
+
 <div align="center">
 
 [![header](https://capsule-render.vercel.app/api?type=Cylinder&color=B73D52&height=150&section=header&text=벼락%20샌드&fontColor=FFD99B&fontSize=70&animation=fadeIn&fontAlignY=55)
