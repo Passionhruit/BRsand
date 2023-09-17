@@ -141,7 +141,7 @@ PASSWORD : 123412
 
 ## [어드민] 웹 페이지 https://b-rsand-inky.vercel.app/admin
 
-TEST ID : admin@test.com
+TEST ID : manager1@test.com
 PASSWORD : 111111
 
 
