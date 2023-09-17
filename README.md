@@ -119,7 +119,9 @@ PASSWORD : 123412
 
 ### 1) 메인 페이지
 
-<a href="https://ibb.co/5Lk5DJz"><img width="400" src="https://i.ibb.co/tDzbf1N/2023-08-14-9-44-30.png" alt="2023-08-14-9-44-30" border="0"></a>
+<img width="400" alt="image" src="https://github.com/Passionhruit/BRsand/assets/92542456/62686d5d-82d8-4001-b9ee-f28fb0f3ea78">
+
+
 
 ### 2) 로그인 페이지
 
