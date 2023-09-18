@@ -1,6 +1,4 @@
-내일배움캠프 11주차 주특기 플러스 프로젝트 React A반 5팀 [벼랑끝에 몰렸조]
-
-# [주특기 플러스 주차] 샌드위치 주문, 판매관리 웹페이지 벼락샌드
+# 샌드위치 주문, 판매관리 웹페이지 벼락샌드
 
 스파르타코딩클럽 6기_React / 23.08.07 ~ 23.08.14 
 
@@ -10,14 +8,9 @@
 ](https://i.ibb.co/dDtQ9H3/2023-08-14-9-44-30.png)
 </div>
 
-## 팀원
+## 담당기능
 
-| 팀원   |  팀원구분 | 깃허브                                      | 블로그                                  |
-| ------ | -------- | ------------------------------------------- | --------------------------------- |
-| 정승하 | `팀장`   | https://github.com/projectaub  | https://blog.naver.com/tmdgk10        |
-| 김윤수 |  팀원     | https://github.com/KimYoonSu97 |  https://velog.io/@zkzk625                        |    
-| 이은한 |  팀원     | https://github.com/TerryEHLee | terryehlee.tistory.com        |
-| 이우정 |  팀원     | https://github.com/Passionhruit | https://passionfruit6.tistory.com/                               |
+모바일 메인페이지, 주문확인페이지, 주문접수페이지, 결제 페이지 (현금, 카드)
 
 ## 목차
 
